@@ -1,3 +1,3 @@
-# Curso-Python-intermedio-para-Matematicos
+# Curso Python intermedio para Matematicos
 
 ## Introducción:
