@@ -50,9 +50,7 @@ d) Cumplimentar el cuestionario de satisfacción con la acciónformativa.Superar
 
 Requisitos de software(estará instalado en los PC de la microaula):
 * Python 3.9.12 (https://www.python.org/downloads/) 
-* Instalado con Anaconda-Distribución Anaconda 
-* la que se usará en el curso por defecto(https://www.anaconda.com/products/individual).
+* Instalado con Anaconda-Distribución Anaconda. La que se usará en el curso por defecto(https://www.anaconda.com/products/individual).
+* Asegurarse que Anaconda instala Spyder y Jupyter Lab en elentorno root (o base).
+* Asegurarse que abierto Jupyter Lab y generado un Notebook se puede generar al menos .pdf.(https://jupyterlab.readthedocs.io/en/stable/user/export.html).
 
-• Asegurarse que Anaconda instala Spyder y Jupyter Lab en elentorno root (o base).
-• Asegurarse que abierto Jupyter Lab y generado un Notebook se puede generar al menos .pdf.(https://jupyterlab.readthedocs.io/en/stable/user/export.html).
-* Utilización  de  github.com  como  repositorio  de  los  notebooks  utilizados  en  las clases
