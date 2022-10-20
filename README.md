@@ -15,6 +15,8 @@ Continuación del curso "INTRODUCCIÓN A PYTHON PARA MATEMÁTICOS" realizado en 
 
 **Lugar de realización:** Microaula Milano (Facultad de Matemáticas)
 
+**Personal formador:** Ignacio Martínez Soriano (https://www.linkedin.com/in/imsoriano/)
+
 **Destinatarios:** Personal  Docente  e  Investigador  de  la  Facultad  de  Matemáticas  de  la  Universidad  de Murcia.
 
 **Competencias:**
@@ -47,7 +49,7 @@ d) Cumplimentar el cuestionario de satisfacción con la acciónformativa.Superar
 **Observaciones:** 
 
 Requisitos de software(estará instalado en los PC de la microaula):
-* Python 3.9.12(https://www.python.org/downloads/) 
+* Python 3.9.12 (https://www.python.org/downloads/) 
 * Instalado con Anaconda-Distribución Anaconda 
 * la que se usará en el curso por defecto(https://www.anaconda.com/products/individual).
 
