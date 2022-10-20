@@ -1,36 +1,31 @@
-[![Python](./images/Python_logo_and_wordmark.png)](https://www.python.org)
 
+## Curso Python para Matematicos. Nivel Intemedio.
+
+[![Python](./images/Python_logo_and_wordmark.png)](https://www.python.org)
 
 
 [![Numpy](./images/NumPy_logo.png)](https://www.numpy.org)[![Matplotlib](./images/Matplotlib_logo.png)](https://matplotlib.org)[![Scipy](./images/scipy.png)](https://scipy.org)[![Sympy](./images/Sympy_logo.png)](https://sympy.org)[![Pandas](./images/Pandas_logo.png)](https://pandas.pydata.org)
 
+Bienvenidos al curso continuación del realizado en Marzo y Abril del 2022, con el título **"INTRODUCCIÓN A PYTHON PARA MATEMÁTICOS"**, impartido por D.Luis Daniel Hernández Molinero. Universidad de Murcia.
 
-## Introducción a la Programación en Python
+Este nuevo curso será impartido por: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
 
-Bienvenidos a la iteración 2021 del curso **Introducción a la Programación Científica en Python**. El curso es intensivo de una semana y se realizará entre el **18 y el 22 de Enero del 2021** a través de la plataforma Zoom. El horario de la mañana es de **09:00 a 12:00** y el de la tarde de **15:00 a 17:00**.
+Este nuevo curso se realizará entre el **2 y el 10 de nobiembre 2022** de manera presencial, con el horario **""16:30 a 19:00""**, mas información en ["Motivación del curso"](./extras/introduccion.md)
 
-El curso entrega las bases para poder utilizar el lenguaje de programación Python en al ámbito científico. Con los aprendizajes alcanzados las personas participantes podrán analizar datos experimentales y computacionales haciendo uso de las herramientas escritas para Python y de esa forma aportar a una interpretación más completa de sus resultados de investigación. 
+La idea principal del curso, es aumentar el conocimieno sobre el lenguaje Python y sobre todo la utilización de las librerias principales para trabajar dentro de un ámbito matemático.
+
+Nota:
+**Las herraamientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción](https://github.com/PythonUdeC/CPC21). Se han adaptado al enfoque específico de este nuevo curso.
 
 -------------
 ## Horario
 
 El horario de actividades es el siguiente:
 
-* Lunes: 10:00 - 12:00: [Bienvenida + Introducción](./extras/Lunes-01.md).
-* Lunes: 15:00 - 17:00: [Instalación y primeros pasos (GR)](https://youtu.be/zBlvGcqlCBQ)
-
-* Martes: 09:00 - 12:00: [Introducción a la Programacion en Python (GR)](https://us02web.zoom.us/rec/share/qbWzbRjM3_tP2Q5Nle7w2F3Q2usodTInhrti5Fr3bhpy0ua_s6Mw8r3Dx5afUBwV.uCam3GMMUCjqwIju)
-* Martes: 15:00 - 17:99: [Práctica (Guía 1) (GR)](https://us02web.zoom.us/rec/share/NVWS63uXxA5-iR64AkNnbxeD8UE6JRdkqYDp-n2c4B_IGCGZX4w-8_Dtn7e8Cndl.ruKmQoHrpfk-uYfZ)
-
-* Miércoles: 09:00 - 12:00: [Funciones, Módulos y Clases (SV)](https://us02web.zoom.us/rec/share/dA8ElX1wHNmkfjgosBaU9Qy61tfr0Bv62phNG_E1o5QcEwi-25A9YS_lQFz6ACg.-3ekQP0gMRDxsDQq)
-* Miércoles: 15:00 - 17:00: [Numpy + práctica (EV, Luis Macaya)](https://us02web.zoom.us/rec/share/jr3qfAeUWEA5YNS8lw5qnKakiUvRNzQtH4E44SLAOYCziCWoJqMELeY3BcoqNfsA.o-YtdXn0FJi2s8dO)
-
-* Jueves: 09:00 - 12:00: [Matplotlib (NI)](./extras/Jueves-01.md)
-* Jueves: 15:00 - 17:00 [Scipy + práctica (SV, Gerald Neumann)](https://us02web.zoom.us/rec/share/curSaEQNq6xdOnB_TL3sqXNm4eTLwsBlBA9J4bCXLeWEYwsCKcrE4EvVuzexmgfT.J8tl8ZP23leFyhch
-)
-
-* Viernes: 09:00 - 12:00: [Pandas (EV)](https://us02web.zoom.us/rec/share/WDI3IuF8zEp3hsAwCJf-x-sEJGmhqg42ujCp8kq7SH07xEUECRwaQ1-ezG3at6k3.PLuAj-swFe6siDFx)
-* Viernes 15:00 - 17:00: [Sympy + práctica (GR, NI)](https://us02web.zoom.us/rec/share/63hN9rlIhAan0ka_I1_zS8psHxziZhMzdkCGdSTTW7ioV_Jy7ViquEedyagSGlIY.5ejx0uUr80iZuEJM)
+* Miercoles (02 Noviembre). 16:30 - 19:00: [Bienvenida + Introducción](./extras/Lunes-01.md).
+* Jueves (03 Noviembre). 16:30 - 19:00:
+* Martes (08 Noviembre). 16:30 - 19:00:
+* Jueves (10 Noviembre). 16:30 - 19:00:
 
 ----------------------
 
@@ -38,7 +33,5 @@ Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://myb
 
 -------------
 Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) donde podrán compartir sus dudas, comentarios y logros relacionados a la programación en Python. Nos Leemos! 
-
-A los participantes los invitamos a responder la siguiente [encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASj1QTCL1jKhJrFcHAQXKxO1UNFlOMFk4SFZDSUdOUVo5UkFFT0ZXTUZUNyQlQCN0PWcu) (abierta hasta 23/01/2021 18hrs) 
 
 
