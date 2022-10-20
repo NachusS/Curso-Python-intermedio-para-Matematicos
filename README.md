@@ -15,7 +15,7 @@ Continuación del curso "INTRODUCCIÓN A PYTHON PARA MATEMÁTICOS" realizado en 
 
 **Lugar de realización:** Microaula Milano (Facultad de Matemáticas)
 
-**Personal formador:** Ignacio Martínez Soriano (https://www.linkedin.com/in/imsoriano/)
+**Personal formador:** [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
 
 **Destinatarios:** Personal  Docente  e  Investigador  de  la  Facultad  de  Matemáticas  de  la  Universidad  de Murcia.
 
@@ -30,8 +30,8 @@ Continuación del curso "INTRODUCCIÓN A PYTHON PARA MATEMÁTICOS" realizado en 
 * Python.-Instalación y Gestión de entornos de trabajo con Anaconda.
 * Módulos interesantes en Anaconda.
 * Generación y utilización de jupyter notebook sobre jupyterlab
-* -Instalación, utilización y prácticas con los siguientes paquetes:
-* Numpy, Pandas, Matplotlib, scipy.
+* Instalación, utilización y prácticas con los siguientes paquetes:
+    - Numpy, Pandas, Matplotlib, scipy.
 * Paquetes  extras,  interesantes  de  conocer  para  trabajar  con  datos  de  manera interactiva: (seaborn, bokeh)Metodología
 
 Las  sesiones  presenciales  serán  teórico-prácticas  y serán  completadas  con  trabajo autónomo  del  alumnado,  a  través  del  material  proporcionado  y  actividades  fijadas  por  el personal formador. La realización de estas actividades será a través de las herramientas “Tareas” y/o “Exámenes” del Aula Virtual.
