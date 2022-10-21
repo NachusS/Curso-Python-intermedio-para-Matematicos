@@ -27,8 +27,10 @@ El horario de actividades es el siguiente:
 |* Jueves (03 Noviembre). 16:30 - 19:00:    |  | |
 |* Martes (08 Noviembre). 16:30 - 19:00:    |  | |
 |* Jueves (10 Noviembre). 16:30 - 19:00:    |  | |
-
 ----------------------
+## Enlaces de Interés y Bibliografía:
+* [Aprende Python Book online.](https://aprendepython.es/) | [Descarga el pdf](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
+
 ## Licencia
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
 
