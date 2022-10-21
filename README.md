@@ -15,7 +15,7 @@ La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Pytho
 Personal formador: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
 
 Nota:
-**Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción](https://github.com/PythonUdeC/CPC21). Del curso "Introducción a la Programación en Python". Se han adaptado al enfoque específico de este nuevo curso.
+**Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Se han adaptado al enfoque específico de este nuevo curso.
 
 -------------
 ## Horario
@@ -24,12 +24,13 @@ El horario de actividades es el siguiente:
 | Horario                                  | Notebooks      | Ejecutar en Colab |
 |------------------------------------------|---------------|-------------------|
 |* Miercoles (02 Noviembre). 16:30 - 19:00: | [Bienvenida + Introducción](./extras/Lunes-01.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
-|* Jueves (03 Noviembre). 16:30 - 19:00:    |                                                   | |
-|* Martes (08 Noviembre). 16:30 - 19:00:    |                                                   | |
-|* Jueves (10 Noviembre). 16:30 - 19:00:    |                                                   | |
+|* Jueves (03 Noviembre). 16:30 - 19:00:    |  | |
+|* Martes (08 Noviembre). 16:30 - 19:00:    |  | |
+|* Jueves (10 Noviembre). 16:30 - 19:00:    |  | |
 
 ----------------------
-
+## Licencia
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
 
 
 
