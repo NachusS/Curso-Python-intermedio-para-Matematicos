@@ -14,13 +14,20 @@ La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Pytho
 
 Personal formador: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
 
-Nota:
-**Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Se han adaptado al enfoque específico de este nuevo curso.
+Nota: **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Se han adaptado al enfoque específico de este nuevo curso.
+
 -------------
 ## Indice de Materias:
 | Materias                                 |  
 |------------------------------------------|
-| # Introducción Python (opcional) |
+| 1. Bienvenida al Curso e Instalación herramientas |
+| 2. Introducción Python (opcional) |
+| 3. Numpy |
+| 4. Pandas |
+| 5. Matplotlit|
+| 6. Simpy |
+| 7. Extras: (Seaborn, Bokeh) |
+
 
 -------------
 ## Horario:
@@ -29,14 +36,15 @@ Nota:
 El horario de actividades es el siguiente:
 | Horario                                  | Secciones     | Ejecutar en Colab |
 |------------------------------------------|---------------|-------------------|
-|* Miercoles (02 Noviembre). 16:30 - 19:00: | [Bienvenida + Introducción](https://github.com/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/extras/00-Introduccion.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
-|* Jueves (03 Noviembre). 16:30 - 19:00:    |  | |
-|* Martes (08 Noviembre). 16:30 - 19:00:    |  | |
-|* Jueves (10 Noviembre). 16:30 - 19:00:    |  | |
+| * Miercoles (02 Noviembre). 16:30 - 19:00 | [Bienvenida + Introducción](https://github.com/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/extras/00-Introduccion.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
+| * Jueves (03 Noviembre). 16:30 - 19:00    |  | |
+| * Martes (08 Noviembre). 16:30 - 19:00    |  | |
+| * Jueves (10 Noviembre). 16:30 - 19:00    |  | |
 ----------------------
 ## Enlaces de Interés y Bibliografía:
 * [Libro Online **Aprende Python**.](https://aprendepython.es/) | [Descarga el pdf](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
 * [Blog Noticiero Cientifico](https://astrojuanlu.substack.com/)
+* [Kaggle Tutorial Python](https://www.kaggle.com/learn/python) | [Cursos ciencia de datos en Kaggle](https://www.kaggle.com/learn)
 
 ## Licencia
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
