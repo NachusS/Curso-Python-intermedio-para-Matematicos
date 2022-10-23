@@ -16,9 +16,15 @@ Personal formador: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsor
 
 Nota:
 **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Se han adaptado al enfoque específico de este nuevo curso.
+-------------
+## Indice de Materias:
+| Materias                                 |  
+|------------------------------------------|
+| # Introducción Python (opcional) |
 
 -------------
-## Horario
+## Horario:
+
 
 El horario de actividades es el siguiente:
 | Horario                                  | Secciones     | Ejecutar en Colab |
