@@ -8,7 +8,7 @@
 
 Bienvenidos al curso continuación del realizado en Marzo y Abril del 2022, con el título **"INTRODUCCIÓN A PYTHON PARA MATEMÁTICOS"**, impartido por D.Luis Daniel Hernández Molinero. Universidad de Murcia.
 
-Este nuevo curso se realizará entre el **2 y el 10 de nobiembre de 2022** de manera presencial, con el horario **""16:30 a 19:00""**, más información en ["Motivación del curso"](./extras/Motivacion.md)
+Este nuevo curso se realizará entre el **2 y el 10 de nobiembre de 2022** de manera presencial, con el horario **(16:30 a 19:00)**, más información en ["Motivación del curso"](./extras/Motivacion.md)
 
 La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Python y la utilización de las librerias principales para trabajar dentro de un ámbito matemático. Se hará un repaso desde un nivel básico hasta un nivel intermedio de python, con la idea de que este repositorio sirva como consulta de dudas y trucos para los alumnos inscritos.
 
