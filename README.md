@@ -18,16 +18,15 @@ Nota: **Las herramientas y notebooks principales de este curso han sido clonadas
 
 -------------
 ## Indice de Materias:
-| Materias                                 |  
-|------------------------------------------|
+| Materias                                 |  Ejecutar en Colab |
+|------------------------------------------|-------------------|
 | 1. Bienvenida al Curso e Instalación herramientas |
-| 2. Introducción Python (opcional) |
+| [2. Introducción Python (opcional)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
 | 3. Numpy |
 | 4. Pandas |
 | 5. Matplotlit|
 | 6. Simpy |
 | 7. Extras: (Seaborn, Bokeh) |
-
 
 -------------
 ## Horario:
@@ -36,7 +35,7 @@ Nota: **Las herramientas y notebooks principales de este curso han sido clonadas
 El horario de actividades es el siguiente:
 | Horario                                  | Secciones     | Ejecutar en Colab |
 |------------------------------------------|---------------|-------------------|
-| * Miercoles (02 Noviembre). 16:30 - 19:00 | [Bienvenida + Introducción](https://github.com/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/extras/00-Introduccion.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
+| * Miercoles (02 Noviembre). 16:30 - 19:00 | [Bienvenida + Introducción](https://github.com/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/extras/00-Introduccion.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb)|
 | * Jueves (03 Noviembre). 16:30 - 19:00    |  | |
 | * Martes (08 Noviembre). 16:30 - 19:00    |  | |
 | * Jueves (10 Noviembre). 16:30 - 19:00    |  | |
