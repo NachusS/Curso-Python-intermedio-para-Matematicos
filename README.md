@@ -21,7 +21,7 @@ Nota: **Las herramientas y notebooks principales de este curso han sido clonadas
 | Materias                                 |  Ejecutar en Colab |
 |------------------------------------------|-------------------|
 | 1. Bienvenida al Curso e Instalación herramientas |
-| [2. Introducción Python (opcional)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/00-Computacion-Cientifica-con-Python.ipynb) |
+| [2. Introducción Python (opcional)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/.ipynb_checkpoints/01-Programacion-en-Python-checkpoint.ipynb) |
 | 3. Numpy |
 | 4. Pandas |
 | 5. Matplotlit|
