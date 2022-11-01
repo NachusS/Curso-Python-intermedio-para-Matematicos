@@ -1,8 +1,8 @@
 
-## Curso Python para Matematicos. Nivel Intemedio.
+## **Curso Python para Matematicos. Nivel Intemedio.**
 
-[![Python](./images/Python_logo_and_wordmark.png)](https://www.python.org)
-
+[![Python](./images/Python_logo_and_wordmark.png)](https://www.python.org) 
+<img alt="download" src="./images/Formacion.png" width="200" height="200" />
 
 [![Numpy](./images/NumPy_logo.png)](https://www.numpy.org)[![Matplotlib](./images/Matplotlib_logo.png)](https://matplotlib.org)[![Scipy](./images/scipy.png)](https://scipy.org)[![Pandas](./images/Pandas_logo.png)](https://pandas.pydata.org)
 
