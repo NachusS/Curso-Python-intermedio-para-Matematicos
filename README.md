@@ -55,7 +55,7 @@ El horario de actividades es el siguiente:
 * [Kaggle Tutorial Python](https://www.kaggle.com/learn/python) | [Cursos ciencia de datos en Kaggle](https://www.kaggle.com/learn)
 * **Cheatsheets:**
     * [Atajos Jupyter Notebook](./docs/jorgejuan007_jupyter-notebook-atajos-de-teclado.pdf)
-    * [Python Web](https://www.pythoncheatsheet.org/) | [Python (pdf)](.docs/Python-3-Cheat-Sheet-v3.pdf)
+    * [Python Web](https://www.pythoncheatsheet.org/) | [Python - pdf](.docs/Python-3-Cheat-Sheet-v3.pdf)
     * [Numpy](./docs/Numpy_Python_Cheat_Sheet.pdf)
     * [Pandas](./docs/Pandas_Cheat_Sheet.pdf)
     * [Matplotlib](./docs/Matplotlit-cheatsheets-1.pdf)
