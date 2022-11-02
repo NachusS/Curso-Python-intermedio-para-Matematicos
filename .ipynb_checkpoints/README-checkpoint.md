@@ -14,13 +14,16 @@ La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Pytho
 
 Personal formador: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
 
-Nota: **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Se han adaptado al enfoque específico de este nuevo curso.
+Nota: **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Además se ha utilizado la documentación de la web (https://aprendeconalf.es/) del Profesor **D.Alfredo Sánchez Alberca**, Universidad CEU San Pablo. 
+Se han adaptado al enfoque específico de este nuevo curso.
 
 -------------
 ## Indice de Materias:
-| Materias                                 |  Ejecutar en Colab |
-|------------------------------------------|-------------------|
-| 1. Bienvenida al Curso e Instalación herramientas |
+| Materias                                 |
+|------------------------------------------|
+| 1. Bienvenida al Curso |
+| 2. Introducción al Python |
+
 | [2. Introducción Python (opcional)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/.ipynb_checkpoints/01-Programacion-en-Python-checkpoint.ipynb) |
 | 3. Numpy |
 | 4. Pandas |
