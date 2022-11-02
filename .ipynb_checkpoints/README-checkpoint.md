@@ -21,10 +21,9 @@ Se han adaptado al enfoque específico de este nuevo curso.
 ## Indice de Materias:
 | Materias                                 |
 |------------------------------------------|
-| 1. Bienvenida al Curso |
-| 2. Introducción al Python |
-
-| [2. Introducción Python (opcional)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/.ipynb_checkpoints/01-Programacion-en-Python-checkpoint.ipynb) |
+| [1. Introducción al Python](./extras/00-Introduccion-Python.md) |
+| [2. Instalación de Python y entornos virtuales](./extras/01-Instalacion-Python.md)|
+| [3. Programación en Python)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | 
 | 3. Numpy |
 | 4. Pandas |
 | 5. Matplotlit|
