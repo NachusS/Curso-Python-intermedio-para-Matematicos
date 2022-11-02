@@ -23,12 +23,14 @@ Se han adaptado al enfoque específico de este nuevo curso.
 |------------------------------------------|
 | [1. Introducción al Python](./extras/00-Introduccion-Python.md) |
 | [2. Instalación de Python y entornos virtuales](./extras/01-Instalacion-Python.md)|
-| [3. Programación en Python)](https://nbviewer.org/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb) | 
-| 3. Numpy |
-| 4. Pandas |
-| 5. Matplotlit|
-| 6. Simpy |
-| 7. Extras: (Seaborn, Bokeh) |
+| [3. Programación en Python - Notebook](./notebooks/01-Programacion-en-Python.ipynb) | 
+| [4. Numpy - Notebook](./notebooks/02-NumPy.ipynb)|
+| [5. Pandas - Notebook](./notebooks/03-Pandas.ipynb)|
+| [6. Matplotlib - Notebook](./notebooks/04-Matplotlib.ipynb)|
+| [7. Seaborn - Notebook](./notebooks/04.1-Extras-Seaborn_v1.ipynb)|
+| [8. Scipy - Notebook](./notebooks/05-Scipy.ipynb)
+| [9. Simpy - Notebook](./notebooks/06-Sympy.ipynb) |
+| 10. Extras: (Bokeh) |
 
 -------------
 ## Horario:
