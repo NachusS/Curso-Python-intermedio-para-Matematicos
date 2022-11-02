@@ -53,6 +53,16 @@ El horario de actividades es el siguiente:
 * [Libro Online **Aprende Python**.](https://aprendepython.es/) | [Descarga el pdf](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
 * [Blog Noticiero Cientifico](https://astrojuanlu.substack.com/)
 * [Kaggle Tutorial Python](https://www.kaggle.com/learn/python) | [Cursos ciencia de datos en Kaggle](https://www.kaggle.com/learn)
+* **Cheatsheets:**
+    * [Atajos Jupyter Notebook](./docs/jorgejuan007_jupyter-notebook-atajos-de-teclado.pdf)
+    * [Python Web](https://www.pythoncheatsheet.org/) | [Python (pdf)](.docs/Python-3-Cheat-Sheet-v3.pdf)
+    * [Numpy](./docs/Numpy_Python_Cheat_Sheet.pdf)
+    * [Pandas](./docs/Pandas_Cheat_Sheet.pdf)
+    * [Matplotlib](./docs/Matplotlit-cheatsheets-1.pdf)
+    * [Seaborn](./docs/Python_Seaborn_Cheat_Sheet.pdf) | [Ejemplos Seaborn](./docs/seaborn_cheat_sheet.pdf)
+    * [Scipy](./docs/Scypy-Cheatsheet.pdf)
+    * [Simpy](./docs/Simpy-Cheatseet_v1.pdf) | [Simpy - extenso](.docs/Simpy-Cheatseet_v2.pdf)
+    
 
 ## Licencia
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
