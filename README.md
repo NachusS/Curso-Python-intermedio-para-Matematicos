@@ -35,14 +35,19 @@ Se han adaptado al enfoque específico de este nuevo curso.
 -------------
 ## Horario:
 
-
 El horario de actividades es el siguiente:
 | Horario                                  | Secciones     | Ejecutar en Colab |
 |------------------------------------------|---------------|-------------------|
-| * Miercoles (02 Noviembre). 16:30 - 19:00 | [Bienvenida + Introducción](https://github.com/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/extras/00-Introduccion.md) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb)|
-| * Jueves (03 Noviembre). 16:30 - 19:00    |  | |
-| * Martes (08 Noviembre). 16:30 - 19:00    |  | |
-| * Jueves (10 Noviembre). 16:30 - 19:00    |  | |
+| * Miercoles (02 Noviembre). 16:30 - 19:00 |[Introducción Python](./extras/00-Introduccion-Python.md)||
+| | [Instalación](./extras/01-Instalacion-Python.md)||
+| | [Programacion con python](./notebooks/01-Programacion-en-Python.ipynb) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/01-Programacion-en-Python.ipynb)|
+| * Jueves (03 Noviembre). 16:30 - 19:00    |[Libreria Numpy]((./notebooks/02-NumPy.ipynb))  |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/02-NumPy.ipynb)|
+| | [Libreria - Pandas](./notebooks/03-Pandas.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/03-Pandas.ipynb)|
+| * Martes (08 Noviembre). 16:30 - 19:00    |[Libreria Matplotlib](./notebooks/04-Matplotlib.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/04-Matplotlib.ipynb)|
+| |[Libreria Seaborn](./notebooks/04.1-Extras-Seaborn_v1.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/04.1-Extras-Seaborn_v1.ipynb)|
+| * Jueves (10 Noviembre). 16:30 - 19:00    | <p>Cómputo y simulacion científica:</p>[Scipy](./notebooks/05-Scipy.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/05-Scipy.ipynb)|
+| |[Simpy](./notebooks/06-Sympy.ipynb) |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachusS/Curso-Python-para-Matematicos-Nivel-Intermedio/blob/main/notebooks/06-Sympy.ipynb)|
+
 ----------------------
 ## Enlaces de Interés y Bibliografía:
 * [Libro Online **Aprende Python**.](https://aprendepython.es/) | [Descarga el pdf](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
