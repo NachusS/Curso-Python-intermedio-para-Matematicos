@@ -62,6 +62,7 @@ El horario de actividades es el siguiente:
     * [Seaborn](./docs/Python_Seaborn_Cheat_Sheet.pdf) | [Ejemplos Seaborn](./docs/seaborn_cheat_sheet.pdf)
     * [Scipy](./docs/Scypy-Cheatsheet.pdf)
     * [Simpy](./docs/Simpy-Cheatseet_v1.pdf) | [Simpy - extenso](./docs/Simpy-Cheatseet_v2.pdf)
+* **Comandos Mágicos Notebook: ** [Guia Oficial](https://ipython.readthedocs.io/en/stable/interactive/magics.html#cell-magics)
     
 
 ## Licencia
