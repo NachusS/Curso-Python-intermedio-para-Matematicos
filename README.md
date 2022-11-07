@@ -69,6 +69,7 @@ El horario de actividades es el siguiente:
    * Canal Youtube de las charlas de todas las Pycon's España [Pycon_ES](https://www.youtube.com/c/PythonEspa%C3%B1aOficial/playlists)
    * [Comunidad Python de España](https://es.python.org/)
    * [Cuenta Twitter Python España](https://twitter.com/python_es)
+   * Acceso al Servidor de **Discord** [Python en Español](https://discord.gg/hablemospython)
    
 
 ## Licencia
