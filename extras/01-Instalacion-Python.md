@@ -116,8 +116,8 @@ En conda podemos instalar varios paquetes a la vez simplemente poniendo sus nomb
 
 Otra opción sería crear un archivo **requirements.txt** donde escribamos a mano el nombre de cada dependencia (uno por línea):
 
-numpy
-pandas
+numpy==numero.de.version
+pandas>=nmero.de.version
 matplotlib
 
 Y ahora podría instalarlo con:
@@ -143,6 +143,12 @@ También podemos instalarlas en el entorno actual con:
 
 * `conda env update -f .\environment.yml`
 
+### Otra forma de exportar el entorno:
+
+`$ conda list -e > req.txt`
+Luego puede instalar el entorno usando
+
+`$ conda create -n new environment --file req.txt`
 
 ## Ejecutar notebooks:
 
