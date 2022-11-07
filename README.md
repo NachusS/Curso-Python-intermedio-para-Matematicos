@@ -63,7 +63,13 @@ El horario de actividades es el siguiente:
     * [Scipy](./docs/Scypy-Cheatsheet.pdf)
     * [Simpy](./docs/Simpy-Cheatseet_v1.pdf) | [Simpy - extenso](./docs/Simpy-Cheatseet_v2.pdf)
 * **Comandos Mágicos Notebook:** [Guia Oficial](https://ipython.readthedocs.io/en/stable/interactive/magics.html#cell-magics)
-    
+* Recursos interesantes para seguir aprendiendo **Python**:
+   * Aprender mientras se juega [CodeCombat](https://codecombat.com/)
+   * [CodeWars](https://www.codewars.com/) retos diarios para ir mejorando el nivel en la programacion.
+   * Canal Youtube de las charlas de todas las Pycon's España [Pycon_ES](https://www.youtube.com/c/PythonEspa%C3%B1aOficial/playlists)
+   * [Comunidad Python de España](https://es.python.org/)
+   * [Cuenta Twitter Python España](https://twitter.com/python_es)
+   
 
 ## Licencia
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
