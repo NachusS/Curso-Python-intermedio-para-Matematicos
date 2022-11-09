@@ -12,7 +12,7 @@ Este nuevo curso se realizará entre el **2 y el 10 de nobiembre de 2022** de ma
 
 La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Python y la utilización de las librerias principales para trabajar dentro de un ámbito matemático. Se hará un repaso desde un nivel básico hasta un nivel intermedio de python, con la idea de que este repositorio sirva como consulta de dudas y trucos para los alumnos inscritos.
 
-Personal formador: [Ignacio Martínez Soriano](https://nachuss.github.io/) <a title="Linkedin profile" href="https://www.linkedin.com/in/imsoriano/"><img src="./images/linkedin-logo.png" width="50" height="50" alt="Linkedin Nacho" /></a>
+Personal formador: [Ignacio Martínez Soriano](https://nachuss.github.io/) <a title="Linkedin profile" href="https://www.linkedin.com/in/imsoriano/" target="_blank"><img src="./images/linkedin-logo.png" width="45" height="45" alt="Linkedin Nacho" /></a>
 
 Nota: **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Además se ha utilizado la documentación de la web (https://aprendeconalf.es/) del Profesor **D.Alfredo Sánchez Alberca**, Universidad CEU San Pablo. 
 Se han adaptado al enfoque específico de este nuevo curso.
