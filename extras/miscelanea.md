@@ -27,7 +27,9 @@ Una ruta de búsqueda es una **lista de directorio**s que el intérprete busca a
 `#!/usr/bin/python`
 
 `# Importar modulo support`
+
 `import support`
+
  Ahora se puede llamar a la siguiente funcion del paquete **support**
 `support.print_func ("Sara")`
 
@@ -57,7 +59,9 @@ seguido de un punto (.) y el nombre del elemento que se desee obtener. En Python
 de la palabra import, es decir la ruta (namespace) del módulo:
 
 `print(modulo.CONSTANTE_1)`
+
 `print(paquete.modulo1.CONSTANTE_1)`
+
 `print(paquete.subpaquete.modulo1.CONSTANTE_1)`
 
 ### Alias
@@ -65,13 +69,18 @@ Es posible también, abreviar los namespaces mediante un **alias**. Para ello, d
 con el cuál nos referiremos en el futuro a ese namespace importado:
 
 `import modulo as m`
+
 `import paquete.modulo1 as pm`
+
 `import paquete.subpaquete.modulo1 as psm`
+
 
 Luego, para acceder a cualquier elemento de los módulos importados, el namespace utilizado será el alias indicado durante la importación:
 
 `print m.CONSTANTE _1`
+
 `print pm.CONSTANTE _1`
+
 `print psm.CONSTANTE_1`
 
 ### Importar módulos sin utilizar namespaces
