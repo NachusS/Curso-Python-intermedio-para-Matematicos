@@ -11,9 +11,15 @@ En Python, cada uno de nuestros archivos `.py` se denominan **módulos**. Estos 
 Un **paquete**, es una **carpeta** que contiene archivos `.py`. Pero, para que una carpeta pueda ser considerada un paquete, debe contener un archivo 
 de inicio llamado `__init__.py`. Este archivo, no necesita contener ninguna instrucción. De hecho, puede estar completamente vacío.
 
+![Paquete](../images/paquetes01.png)
+
 Los paquetes, a la vez, también pueden contener otros sub-paquetes:
 
+![Subpaquete](../images/subpaquetes.png)
+
 Y los módulos, no necesariamente, deben pertenecer a un paquete:
+
+![Subpaquete01](../images/subpaquetes01.png)
 
 ### Importando módulos enteros
 
