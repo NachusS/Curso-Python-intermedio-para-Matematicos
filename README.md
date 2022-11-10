@@ -30,7 +30,7 @@ Se han adaptado al enfoque específico de este nuevo curso.
 | [7. Seaborn - Notebook](./notebooks/04.1-Extras-Seaborn_v1.ipynb)|
 | [8. Scipy - Notebook](./notebooks/05-Scipy.ipynb)
 | [9. Simpy - Notebook](./notebooks/06-Sympy.ipynb) |
-| 10. Extras: (Bokeh) |
+| 10. Miscelanea |(./extras/miscelanea.md)
 
 -------------
 ## Horario:
