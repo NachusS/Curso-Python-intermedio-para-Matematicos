@@ -12,7 +12,7 @@ Este nuevo curso se realizará entre el **2 y el 10 de nobiembre de 2022** de ma
 
 La idea principal del curso, es aumentar el conocimiento sobre el lenguaje Python y la utilización de las librerias principales para trabajar dentro de un ámbito matemático. Se hará un repaso desde un nivel básico hasta un nivel intermedio de python, con la idea de que este repositorio sirva como consulta de dudas y trucos para los alumnos inscritos.
 
-Personal formador: [Ignacio Martínez Soriano](https://www.linkedin.com/in/imsoriano/)
+Personal formador: [Ignacio Martínez Soriano](https://nachuss.github.io/) <a title="Linkedin profile" href="https://www.linkedin.com/in/imsoriano/" target="_blank"><img src="./images/linkedin-logo.png" width="45" height="45" alt="Linkedin Nacho" /></a>
 
 Nota: **Las herramientas y notebooks principales de este curso han sido clonadas del repositorio:** [Grupo Python Cientifico de la Universidad de Concepción CPC21](https://github.com/PythonUdeC/CPC21), del curso **"Introducción a la Programación en Python"**. Además se ha utilizado la documentación de la web (https://aprendeconalf.es/) del Profesor **D.Alfredo Sánchez Alberca**, Universidad CEU San Pablo. 
 Se han adaptado al enfoque específico de este nuevo curso.
@@ -62,8 +62,15 @@ El horario de actividades es el siguiente:
     * [Seaborn](./docs/Python_Seaborn_Cheat_Sheet.pdf) | [Ejemplos Seaborn](./docs/seaborn_cheat_sheet.pdf)
     * [Scipy](./docs/Scypy-Cheatsheet.pdf)
     * [Simpy](./docs/Simpy-Cheatseet_v1.pdf) | [Simpy - extenso](./docs/Simpy-Cheatseet_v2.pdf)
-* **Comandos Mágicos Notebook: ** [Guia Oficial](https://ipython.readthedocs.io/en/stable/interactive/magics.html#cell-magics)
-    
+* **Comandos Mágicos Notebook:** [Guia Oficial](https://ipython.readthedocs.io/en/stable/interactive/magics.html#cell-magics)
+* Recursos interesantes para seguir aprendiendo **Python**:
+   * Aprender mientras se juega [CodeCombat](https://codecombat.com/)
+   * [CodeWars](https://www.codewars.com/) retos diarios para ir mejorando el nivel en la programacion.
+   * Canal Youtube de las charlas de todas las Pycon's España [Pycon_ES](https://www.youtube.com/c/PythonEspa%C3%B1aOficial/playlists)
+   * [Comunidad Python de España](https://es.python.org/)
+   * [Cuenta Twitter Python España](https://twitter.com/python_es)
+   * Acceso al Servidor de **Discord** [Python en Español](https://discord.gg/hablemospython)
+   
 
 ## Licencia
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.es)
